@@ -1,0 +1,12 @@
+{
+  "name": "bad-example-eval-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node example.js"
+  }
+}

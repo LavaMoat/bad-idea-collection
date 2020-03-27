@@ -1,0 +1,15 @@
+{
+  "name": "bad-example-packages",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "scripts": {
+    "test": "lerna run test",
+    "lint": "lerna run lint",
+    "publish": "lerna publish from-package --no-push --no-git-tag-version --yes"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
