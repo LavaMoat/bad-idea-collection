@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kumavis",
-  "homepage": "https://github.com/LavaMoat/bad-example-packages"
+  "homepage": "https://github.com/LavaMoat/bad-example-packages",
+  "dependencies": {
+    "useragent": "^2.3.0"
+  }
 }
