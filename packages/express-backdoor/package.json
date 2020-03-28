@@ -9,7 +9,5 @@
   },
   "author": "kumavis",
   "homepage": "https://github.com/LavaMoat/bad-example-packages",
-  "dependencies": {
-    "useragent": "^2.3.0"
-  }
+  "dependencies": {}
 }
