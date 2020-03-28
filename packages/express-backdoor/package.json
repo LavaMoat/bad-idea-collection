@@ -5,9 +5,12 @@
   "license": "MIT",
   "description": "express middleware containing a backdoor",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./example.js"
   },
   "author": "kumavis",
   "homepage": "https://github.com/LavaMoat/bad-example-packages",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
 }
