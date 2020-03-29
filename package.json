@@ -1,5 +1,5 @@
 {
-  "name": "bad-example-packages",
+  "name": "bad-idea-collection",
   "private": true,
   "devDependencies": {
     "lerna": "^3.20.2"

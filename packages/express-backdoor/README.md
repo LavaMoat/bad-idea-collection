@@ -1,4 +1,4 @@
-# bad-example-express-backdoor
+# bad-idea-express-backdoor
 
 express middleware containing a backdoor
 

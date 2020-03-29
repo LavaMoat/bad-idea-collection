@@ -1,5 +1,5 @@
 {
-  "name": "bad-example-express-backdoor",
+  "name": "bad-idea-express-backdoor",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "start": "node ./example.js"
   },
   "author": "kumavis",
-  "homepage": "https://github.com/LavaMoat/bad-example-packages",
+  "homepage": "https://github.com/LavaMoat/bad-idea-packages",
   "dependencies": {},
   "devDependencies": {
     "express": "^4.17.1"

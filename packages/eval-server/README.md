@@ -1,4 +1,4 @@
-# bad-example-eval-server
+# bad-idea-eval-server
 
 starts a server that evals any code sent to it.
 this is dangerous.
