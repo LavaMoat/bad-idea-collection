@@ -1,6 +1,6 @@
 {
   "name": "bad-idea-express-backdoor",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.js",
   "license": "MIT",
   "description": "express middleware containing a backdoor",
