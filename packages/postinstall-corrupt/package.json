@@ -8,5 +8,15 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "description": "package with a postinstall hook that modifies other packages",
+  "author": "kumavis",
+  "homepage": "https://github.com/LavaMoat/bad-idea-collection#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/LavaMoat/bad-idea-collection.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/LavaMoat/bad-idea-collection/issues"
   }
 }
