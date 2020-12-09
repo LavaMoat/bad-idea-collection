@@ -1,6 +1,6 @@
 {
   "name": "@bad-idea/postinstall-corrupt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -13,10 +13,10 @@
   "author": "kumavis",
   "homepage": "https://github.com/LavaMoat/bad-idea-collection#readme",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/LavaMoat/bad-idea-collection.git"
+    "type": "git",
+    "url": "https://github.com/LavaMoat/bad-idea-collection.git"
   },
   "bugs": {
-    "url" : "https://github.com/LavaMoat/bad-idea-collection/issues"
+    "url": "https://github.com/LavaMoat/bad-idea-collection/issues"
   }
 }
