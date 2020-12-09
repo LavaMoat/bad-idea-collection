@@ -5,5 +5,8 @@
   "license": "MIT",
   "scripts": {
     "postinstall": "./postinstall.sh"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
