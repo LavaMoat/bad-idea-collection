@@ -2,6 +2,8 @@
 
 package with a git dependency named "keccak", but with content differing from the npm registry's canonical "keccak"
 
+the dependency [can be found here](https://github.com/LavaMoat/bad-idea-collection-non-canonical-keccak).
+
 for demonstration purposes only
 
 
