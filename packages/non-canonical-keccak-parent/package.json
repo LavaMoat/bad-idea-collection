@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "keccak": "LavaMoat/bad-idea-collection-non-canonical-keccak"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
