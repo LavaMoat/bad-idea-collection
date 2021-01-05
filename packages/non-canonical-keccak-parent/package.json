@@ -1,0 +1,14 @@
+{
+  "name": "@bad-idea/non-canonical-keccak-wrapper",
+  "version": "1.0.0",
+  "description": "package with git dependency that conflicts with npm canonical package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keccak": "LavaMoat/bad-idea-collection-non-canonical-keccak"
+  }
+}
