@@ -1,0 +1,19 @@
+{
+  "name": "@bad-idea/fake-node-modules-path",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "package with a node_modules directory where you wouldn't expect one",
+  "author": "kumavis",
+  "homepage": "https://github.com/LavaMoat/bad-idea-collection/tree/main/packages/fake-node-modules-path#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LavaMoat/bad-idea-collection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LavaMoat/bad-idea-collection/issues"
+  }
+}
