@@ -7,5 +7,5 @@
 ### development
 
 ```
-cp -r fake_node_modules
+yarn setup
 ```
