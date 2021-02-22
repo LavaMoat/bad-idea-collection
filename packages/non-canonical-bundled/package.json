@@ -23,6 +23,6 @@
     "colors"
   ],
   "scripts": {
-    "setup": "cp -r fake_node_modules node_modules"
+    "setup": "cp -r fake_node_modules/ node_modules/"
   }
 }
