@@ -1,0 +1,25 @@
+{
+  "name": "@bad-idea/non-canonical-bundled",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "package with a node_modules directory where you wouldn't expect one",
+  "author": "kumavis",
+  "homepage": "https://github.com/LavaMoat/bad-idea-collection/tree/main/packages/non-canonical-bundled#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LavaMoat/bad-idea-collection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LavaMoat/bad-idea-collection/issues"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "bundledDependencies": [
+    "colors"
+  ]
+}
