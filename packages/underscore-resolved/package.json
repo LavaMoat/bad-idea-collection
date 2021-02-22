@@ -1,0 +1,20 @@
+{
+  "name": "@bad-idea/underscore-resolved",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "_resolved": "https://registry.npmjs.org/fake/-/fake-1.1.1.tgz",
+  "description": "package with a fake \"_resolved\" field",
+  "author": "kumavis",
+  "homepage": "https://github.com/LavaMoat/bad-idea-collection/tree/main/packages/underscore-resolved#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LavaMoat/bad-idea-collection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LavaMoat/bad-idea-collection/issues"
+  }
+}
